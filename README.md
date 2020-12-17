@@ -2,8 +2,6 @@
 
 ## El mundo inmobiliario de Londres 
 
-Image.open('data/londres.jpg')
-
 ### ¿De que trata este proyecto?
 
 Este proyecto se basa en la creación de una página o api de streamlit, creando una visualización del mundo inmobiliario de Londres.
